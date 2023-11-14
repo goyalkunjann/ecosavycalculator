@@ -17,4 +17,4 @@ npm i
 npm start
 ```
 
-Check the hosted Ecosavvy at: https://eco-savvy-score.vercel.app/
+
